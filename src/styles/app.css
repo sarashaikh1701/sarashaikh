@@ -1,0 +1,45 @@
+body {
+  font-family: 'Sora', sans-serif;
+  color: #222;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  margin: 0.5em 0;
+  font-weight: 600;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hero-section {
+  background-color: #ffffff;
+  color: #0e0f11;
+  padding-bottom: 0; /* Ensure no space below */
+  margin-bottom: 0;
+}
+
+
+.projects-section {
+  padding: 0;
+  background-color: #ffffff;
+  color: #ffffff;
+  transition: background-color 0.5s ease;
+}

@@ -1,0 +1,28 @@
+.projects-section {
+  width: 100vw;
+  background-color: #0e0f11;
+  color: white;
+  padding-top: 0; /* remove vertical space above */
+  margin-top: 0;
+}
+
+.projects-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 2rem 2rem 2rem; /* If you want to keep side padding only */
+}
+
+
+.projects-section h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: rgb(0, 0, 0); /* Or any accent color you like */
+  margin-top: 0;
+}
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr)); /* ⬅ wider cards */
+  gap: 2.5rem;
+  justify-content: center;
+  padding-top: 1.5rem;
+}

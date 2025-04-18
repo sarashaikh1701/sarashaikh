@@ -1,0 +1,42 @@
+.header {
+  background-color: #49573B;
+  padding: 0.25rem 1rem;
+  border-bottom: 1px solid #49573B;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 60px;
+  object-fit: contain;
+  cursor: pointer;
+}
+
+.nav ul {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav li {
+  list-style: none;
+}
+
+nav a {
+  position: relative;
+  font-weight: 500;
+  color: #ffffff;
+  text-decoration: none;
+  transition: all 0.25s ease-in-out;
+}
+
+nav a:hover {
+  transform: translateY(-3px);
+  color: #d9dfb4; /* Your soft green accent */
+}

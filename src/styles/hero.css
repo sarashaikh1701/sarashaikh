@@ -1,0 +1,47 @@
+.hero-container {
+  padding: 6rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+.hero-content {
+  max-width: 1100px;   /* Match with project container */
+  margin: 0 auto;      /* Center horizontally */
+  width: 100%;
+}
+
+.hero-greeting {
+  font-size: 1.2rem;
+  color: #000000;
+  margin-bottom: 1.2rem;
+}
+
+.hero-headline {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 2rem;
+  color: #050638;
+}
+
+.highlight-dark {
+  color: #050638;
+  font-weight: 700;
+}
+
+.highlight-green {
+  color: #7a833e;
+  font-weight: 700;
+}
+
+.hero-subheading {
+  font-size: 1.25rem;
+  color: #000000;
+}
+
+.bold {
+  font-weight: 600;
+  color: #363a1b;
+}
