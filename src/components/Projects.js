@@ -31,6 +31,13 @@ function Projects() {
       link: 'https://github.com/sarashaikh1701/JPMC-Anubhuti',
     },
     {
+      title: 'Sustainable City Management for Dublin Transportation Systems',
+      description: 'Contributed in a Group Project involving the development of a Django based app used to analyse and make decisions for mobility in Dublin City.',
+      tags: ['Python', 'Django', 'Database Management', 'Web Development', 'UIUX'],
+      image: '/assets/images/SCM.PNG',
+      link: 'https://github.com/sarashaikh1701/SustainableCityManagement',
+    },
+    {
       title: 'Machine Learning for Obesity Prevention in Young Adults',
       description: 'Built a user-friendly website that analyzes imbalanced educational data to offer preventive insights and calculators, achieving ~90% accuracy.',
       tags: ['Data Collection', 'Python', 'Web Development','Predictive Modeling'],
