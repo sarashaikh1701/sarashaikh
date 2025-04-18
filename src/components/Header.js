@@ -14,7 +14,7 @@ function Header() {
         <nav className="nav">
           <ul>
             {/* <li><a href="#home">Home</a></li> */}
-            <Link to="/">Projects</Link>
+            <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <a
               href="https://drive.google.com/file/d/1QqeYtkXHFlzwidSNcLHLBC6S0sfgzasm/view?usp=sharing"

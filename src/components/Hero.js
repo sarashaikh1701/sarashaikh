@@ -7,8 +7,8 @@ function Hero() {
       <div className="hero-content">
         <p className="hero-greeting">Hi, I’m Sara</p>
         <h1 className="hero-headline">
-          I design <span className="highlight-dark">human-centered</span>, <br />
-          data-driven solutions that blend <br />
+          I curate <span className="highlight-dark">data-driven</span>, <br />
+          solutions that blend <br />
           <span className="highlight-green">insight, intuition, and innovation.</span> 🌱
         </h1>
         <p className="hero-subheading">
