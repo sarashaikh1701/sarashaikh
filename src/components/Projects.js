@@ -31,6 +31,13 @@ function Projects() {
       link: 'https://github.com/sarashaikh1701/SustainableCityManagement',
     },
     {
+      title: 'Crawler Protocol Simulation',
+      description: 'A dynamic communication system that relays secure instructions via LEO satellites to a robot in warzones, with the ability to switch infrastructure gateways based on channel availability in low-network areas.',
+      tags: ['Low Earth Orbit', 'Scalability', 'Python', 'Authentication'],
+      image: '/assets/images/leo.png',
+      link: 'https://github.com/sarashaikh1701/LEO-Satellite-Project',
+    },
+    {
       title: 'Machine Learning for Obesity Prevention in Young Adults',
       description: 'Built a user-friendly website that analyzes imbalanced educational data to offer preventive insights and calculators, achieving ~90% accuracy.',
       tags: ['Data Collection', 'Python', 'Web Development','Predictive Modeling'],
