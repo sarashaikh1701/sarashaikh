@@ -24,13 +24,6 @@ function Projects() {
       link: 'https://github.com/sarashaikh1701/Refugee-Population-by-Country-or-Territory-of-Origin',
     },
     {
-      title: "JP Morgan Chase Co.'s Code For Good Hackathon'22",
-      description: 'Streamlined data visualizations to support NGO program analysis.',
-      tags: ['Impact', 'Visualization', 'NGO'],
-      image: '/assets/images/jpmc.png',
-      link: 'https://github.com/sarashaikh1701/JPMC-Anubhuti',
-    },
-    {
       title: 'Sustainable City Management for Dublin Transportation Systems',
       description: 'Contributed in a Group Project involving the development of a Django based app used to analyse and make decisions for mobility in Dublin City.',
       tags: ['Python', 'Django', 'Database Management', 'Web Development', 'UIUX'],
@@ -43,6 +36,13 @@ function Projects() {
       tags: ['Data Collection', 'Python', 'Web Development','Predictive Modeling'],
       image: '/assets/images/obesity-prevention.png',
       link: 'https://github.com/sarashaikh1701/Obesity-Prediction-and-Prevention',
+    },
+    {
+      title: "JP Morgan Chase Co.'s Code For Good Hackathon'22",
+      description: 'Streamlined data visualizations to support NGO program analysis.',
+      tags: ['Impact', 'Visualization', 'NGO'],
+      image: '/assets/images/jpmc.png',
+      link: 'https://github.com/sarashaikh1701/JPMC-Anubhuti',
     },
     {
       title: 'Sentiment analysis using Twitter API',
